@@ -8,7 +8,7 @@ baris kedua. Begitu cahaya jatuh di bawah 100 lux, LED menyala sebagai
 tanda ruangan terlalu redup untuk membaca.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://youtube.com/shorts/1eLn61Gy8zM
 
 ## Komponen
 
